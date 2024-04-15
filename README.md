@@ -9,5 +9,5 @@
 📫 You can drop me a message at abdelhakim@ece.au.dk
 
 
-Check out my [GitHub Pages website](https://abdelhakim96.github.io/) 🌐 for more information!
+Check out [my website](https://abdelhakim96.github.io/) 🌐 for more information!
 
