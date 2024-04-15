@@ -1,4 +1,4 @@
-👋 Hi, I’m Hakim:)
+👋 Hi, I’m Hakim :)
 
 🎓 I'm a Phd student at Aarhus University
 
