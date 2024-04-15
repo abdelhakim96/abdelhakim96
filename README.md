@@ -4,7 +4,7 @@
 
 👀 I’m interested in learning-based optimal control, autonomous systems, and underwater robotics
 
-💞️ I’m looking forward to collaborating on projects in underwater robotics and control
+🤝  I’m looking forward to collaborating on projects in underwater robotics and control
 
 📫 You can drop me a message at abdelhakim@ece.au.dk
 
