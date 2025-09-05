@@ -2,7 +2,7 @@
 
 🎓 I'm a PhD student at Aarhus University
 
-👀 I’m interested in learning-based optimal control, autonomous systems, and machine learning
+🤖 I’m interested in learning-based optimal control, autonomous systems, and machine learning
 
 📫 You can drop me a message at abdelhakim@ece.au.dk
 
