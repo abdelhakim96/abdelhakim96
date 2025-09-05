@@ -2,9 +2,7 @@
 
 🎓 I'm a PhD student at Aarhus University
 
-👀 I’m interested in learning-based optimal control, autonomous systems, and underwater robotics
-
-🤝  I’m looking forward to collaborating on projects in underwater robotics autonomy
+👀 I’m interested in learning-based optimal control, autonomous systems, and machine learning
 
 📫 You can drop me a message at abdelhakim@ece.au.dk
 
